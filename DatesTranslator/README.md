@@ -24,7 +24,7 @@ The dataset is generated synthetically using the **Faker** library. It consists 
 ## Usage
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/shazminnasir67/NLP_Projects/tree/main/DatesTranslator
+git clone https://github.com/shazminnasir67/NLP_Projects/tree/main/DatesTranslator.git
 cd DateTranslator
 ```
 
