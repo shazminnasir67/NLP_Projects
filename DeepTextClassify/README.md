@@ -31,7 +31,7 @@ The dataset used in this project is the Kaggle Movie Review dataset, which conta
 ## Usage
 ### Clone the repository:
 ```bash
-git clone https://github.com/your-username/deep-text-classifiers.git
+git clone https://github.com/shazminnasir67/NLP_Projects/tree/main/DeepTextClassify
 cd deep-text-classifiers
 ```
 
