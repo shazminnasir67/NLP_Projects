@@ -29,7 +29,7 @@ The dataset used in this project is the **CoNLL-2003 NER dataset**, which contai
 ## Usage
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/NER-BiLSTM-CRF.git
+git clone https://github.com/shazminnasir67/NLP_Projects/tree/main/NER-BiLSTM-CRF.git
 cd NER-BiLSTM-CRF
 ```
 
