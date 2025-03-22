@@ -28,5 +28,5 @@ The **Softmax Regression** model is used for multi-class classification. It pred
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/shazminnasir67/movie-review-sentiment-analysis.git
+   git clone https://github.com/shazminnasir67/NLP_Projects/tree/main/Movie%20Review%20Sentiment%20Analysis.git
    cd movie-review-sentiment-analysis
